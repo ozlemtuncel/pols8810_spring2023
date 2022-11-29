@@ -8,7 +8,7 @@ layout: default
 
 - **Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@student.gsu.edu>
 
-- **Meeting Time**: R 12:45 pm – 03:15 pm
+- **Meeting Time**: Thursday 12:45 pm – 03:15 pm
 
 - **Class Location**: Classroom South 308
 
