@@ -4,13 +4,13 @@ layout: default
 
 # Course information
 
-**Instructor**: Mike Fix <mfix@gsu.edu>
+- **Instructor**: Mike Fix <mfix@gsu.edu>
 
-**Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@student.gsu.edu>
+- **Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@student.gsu.edu>
 
-**Meeting Time**: R 12:45 pm – 03:15 pm
+- **Meeting Time**: R 12:45 pm – 03:15 pm
 
-**Class Location**: Classroom South 308
+- **Class Location**: Classroom South 308
 
 # Communication 
 - In person office hours: Feel free to visit me during office hours for in-person interaction. 
