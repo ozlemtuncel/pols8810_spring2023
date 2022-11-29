@@ -1,6 +1,6 @@
 title: POLS 8810 (Spring 2023)
 logo: /assets/img/logo.png
 description: Ozlem will be using this website to share any information about lab sessions of POLS 8810 (Spring 2023). 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
