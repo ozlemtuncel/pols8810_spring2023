@@ -3,9 +3,13 @@ layout: default
 ---
 
 # Course information
+
 **Instructor**: Mike Fix <mfix@gsu.edu>
+
 **Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@student.gsu.edu>
+
 **Meeting Time**: R 12:45 pm – 03:15 pm
+
 **Class Location**: Classroom South 308
 
 # Communication 
@@ -21,9 +25,7 @@ In addition to office hours, I will be conducting lab sessions for three purpose
 
 ## Week 1
 
-```
-Main Goal: Get familiar with LaTeX to typeset your problem sets.
-```
+> :warning: Main Goal: Get familiar with LaTeX to typeset your problem sets.
 
 **Learning LaTeX**
 I encourage all of you to get familiar with **LaTeX** or any kind of document preparation system to typset your problem sets. GSU offers online/in-person LaTeX course. I personally use Overleaf for typetting these sort of documents. Recently, I have been using Quarto in R and Phyton to typeset reports and presentations. Here are some useful links to learn LaTeX:
@@ -39,9 +41,7 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 ## Week 2
 
-```
-Main Goal: Get familiar with tidyverse and base R in R Studio. 
-```
+> :warning: Main Goal: Get familiar with tidyverse and base R in R Studio. 
 
 In POLS 8805, you used R and R Studio, but mainly relied on tidyverse in data manipulation and management. We are also going to incorporate and learn base R which is going to be highly useful. 
 
