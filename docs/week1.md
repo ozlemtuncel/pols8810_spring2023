@@ -3,9 +3,9 @@ Ozlem Tuncel
 
 otuncelgurlek1@gsu.edu
 
-> :warning: **CAUTION**: DO NOT SOLELY RELY ON MY NOTES. THERE MIGHT BE TYPOS AND MISTAKES. ALWAYS TAKE YOUR NOTES!
+> ⚠️ **CAUTION**: DO NOT SOLELY RELY ON MY NOTES. THERE MIGHT BE TYPOS AND MISTAKES. ALWAYS TAKE YOUR NOTES!
 
-The goal of this week is to familiarize yourselves with a few basic math concepts that will help us in OLS. These concepts are:
+✔️ The goal of this week is to familiarize yourselves with a few basic math concepts that will help us in OLS. These concepts are:
 - **matrix/linear algebra**
 - **statistic** vs **parameter**
 - **vector** and **scalar** 
@@ -21,10 +21,7 @@ The goal of this week is to familiarize yourselves with a few basic math concept
 - an **inverse of matrix** is a matrix, and the product between a matrix and its inverse yields to an identity matrix
 
 ## Some recommendations: 
-- Definitely go over your notes and practice some matrix operations 
-- Think about why we are talking about matrices before focusing on OLS theory
+- Definitely go over your notes and practice matrix operations (otherwise you will forget notation and nomenclature)
 - Get familiarize with concepts like parameter, scalar, vector, etc. 
-- Get familirize with greek letters (see below)
-- If you want more math (yey! :boom:), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King.
-
-![Greek Letters](https://github.com/ozlemtuncel/pols8810_spring2023/blob/390e47420f4d0bb5a5192bf28094d044a4c762c3/docs/greek-letters.png)
+- Get familiarize with greek letters
+- If you want more math (yey! 💥), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King. 
