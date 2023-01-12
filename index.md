@@ -12,14 +12,12 @@ layout: default
 
 - **Class Location**: Langdale Hall 1004
 
-# Ozlem's Office Hours
+# Ozlem's Office Hours and TA Sessions
 - My office: Langdale Hall Room 1027
 - Office hours: Monday 1-3 pm and Thursday 9-11 am.
+- In addition to office hours, I will be conducting lab sessions for three purposes: to answer your software related questions, supplementing class material, questions about problem sets, and help with general methodology matters. If you have any particular subject that you want to discuss in these workshops, please let me know!
 
-# TA Sessions
-In addition to office hours, I will be conducting lab sessions for three purposes: to answer your software related questions, supplementing class material, questions about problem sets, and help with general methodology matters. If you have any particular subject that you want to discuss in these workshops, please let me know!
-
-# Notes, Tips, and Slides
+# Slides, Notes, and Tips
 
 ## Week 1
 
