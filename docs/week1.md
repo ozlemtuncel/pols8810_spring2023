@@ -27,4 +27,4 @@ The goal of this week is to familiarize yourselves with a few basic math concept
 - Get familirize with greek letters (see below)
 - If you want more math (yey! :boom:), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King.
 
-![Greek Letters](docs/greek-letters.png)
+![Greek Letters](https://github.com/ozlemtuncel/pols8810_spring2023/blob/390e47420f4d0bb5a5192bf28094d044a4c762c3/docs/greek-letters.png)
