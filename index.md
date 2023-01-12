@@ -26,7 +26,7 @@ In addition to office hours, I will be conducting lab sessions for three purpose
 ### Class materials 
 > ✔️ Main Goal: Get familiar with matrix algebra and perform basic matrix algebra operations.
 
-[Week 1 Slides](https://github.com/ozlemtuncel/pols8810_spring2023/blob/23ad8c13f9192471413c4b4331b23e1ab89f54cc/docs/01Matrix.pdf)
+[Week 1 Slides](docs/01Matrix.pdf)
 
 [Ozlem's notes from the class](https://github.com/ozlemtuncel/pols8810_spring2023/blob/23ad8c13f9192471413c4b4331b23e1ab89f54cc/docs/week1.md)
 
