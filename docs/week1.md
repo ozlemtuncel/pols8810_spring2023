@@ -2,26 +2,26 @@
 Ozlem Tuncel 
 otuncelgurlek1@gsu.edu
 
-**CAUTION**: DO NOT SOLELY RELY ON MY NOTES. THERE MIGHT BE TYPOS AND MISTAKES. ALWAYS KEEP YOUR OWN NOTES!
+> :warning: **CAUTION**: DO NOT SOLELY RELY ON MY NOTES. THERE MIGHT BE TYPOS AND MISTAKES. ALWAYS TAKE YOUR NOTES!
 
-The goal of this week is to familiarize yourselves with few basic concepts in math that will help us in OLS. These concepts are:
+The goal of this week is to familiarize yourselves with a few basic math concepts that will help us in OLS. These concepts are:
 - **matrix/linear algebra**
 - **statistic** vs **parameter**
 - **vector** and **scalar** 
 
 ## Here are some key points:
-- matrix algebra or linear algebra - this is like learning a new language 
-- bold face, not italicized - that just means it is matrix 
+- matrix algebra (or linear algebra) is like learning a new language. So, it can be challenging at first, but practice is important.  
 - a **scalar** is a single number or constant
 - a **vector** is a matrix but it is just one row and one column
 - a **matrix** has more than one column or row (of vectors)
-- a **parameter** - we cannot directly observe it. It helps us to represent entire population / true unknown/value in the population, it is theroretically possible to know but practically impossible. We use greek letters.  
-- a **statistic** - give me your best guess about some data (e.g., mean of a sample)
-- We cannot never get the parameter, we can only estimate it using statistics. 
-- special matrices (e.g., square matrix, symmetric matrix) are important in some instances because you have to have certain types of matrices to perform certain operations
-- an **inverse of matrix** is a matrix whether in which we pre-multiply or post-multiply the matrix with it and it yields an identity matrix
+- a **parameter** - measurement of population quantities. We cannot directly observe it. It helps us to represent entire population -- true unknown/value in the population. Sometimes, it is theroretically possible to know this value but practically nearly impossible. We use greek letters to denote parameters (like $\mu$ or $\delta$). We cannot never get the parameter, we can only **estimate** it using statistics.  
+- a **statistic** - measurement of the sample qualities. Basically, this is a way of giving your best guess about some data (e.g., mean of a sample). 
+- special matrices (e.g., square matrix, symmetric matrix) are important in some instances because you have to have certain types of matrices to perform certain operations. We will talk about them more in upcoming weeks.
+- an **inverse of matrix** is a matrix, and the product between a matrix and its inverse yields to an identity matrix
 
 ## Some recommendations: 
 - Definitely go over your notes and practice some matrix operations 
 - Think about why we are talking about matrices before focusing on OLS theory
 - Get familiarize with concepts like parameter, scalar, vector, etc. 
+- Get familirize with greek letters (see below)
+- If you want more math (yey! :boom:), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King.
