@@ -28,14 +28,14 @@ In addition to office hours, I will be conducting lab sessions for three purpose
 
 [Week 1 Slides](docs/01Matrix.pdf)
 
-[Ozlem's notes from the class](https://github.com/ozlemtuncel/pols8810_spring2023/blob/23ad8c13f9192471413c4b4331b23e1ab89f54cc/docs/week1.md)
+[Ozlem's notes from the class](docs/week1.md)
 
 ### Software and others
 > ✔️ Main Goal 1: Participate in Josh's R sessions to learn more about base R.
 
 > ✔️ Main Goal 2: Get familiar with LaTeX to typeset your problem sets.
 
-> :warning: While it is not mandatory for you to got to Josh's R sessions, I highly recommend them! 
+> ⚠️ While it is not mandatory for you to got to Josh's R sessions, I highly recommend them! 
 
 **Learning LaTeX**
 I encourage all of you to get familiar with **LaTeX** or similar kind of document preparation system to typset your problem sets. GSU offers online/in-person LaTeX course. I use Overleaf for typetting these sort of documents. Recently, I have been using Quarto in R and Phyton to typeset reports and presentations. Here are some useful links to learn LaTeX:
