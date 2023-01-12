@@ -26,3 +26,5 @@ The goal of this week is to familiarize yourselves with a few basic math concept
 - Get familiarize with concepts like parameter, scalar, vector, etc. 
 - Get familirize with greek letters (see below)
 - If you want more math (yey! :boom:), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King.
+
+![Greek Letters](docs/greek-letters.png)
