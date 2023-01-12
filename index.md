@@ -31,6 +31,7 @@ In addition to office hours, I will be conducting lab sessions for three purpose
 
 ### Software and others
 > ✔️ Main Goal 1: Participate in Josh's R sessions to learn more about base R.
+
 > ✔️ Main Goal 2: Get familiar with LaTeX to typeset your problem sets.
 
 > :warning: While it is not mandatory for you to got to Josh's R sessions, I highly recommend them! 
