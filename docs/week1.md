@@ -25,3 +25,4 @@ otuncelgurlek1@gsu.edu
 - Get familiarize with concepts like parameter, scalar, vector, etc. 
 - Get familiarize with greek letters
 - If you want more math (yey! 💥), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King. 
+
