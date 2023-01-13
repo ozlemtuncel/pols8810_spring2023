@@ -23,6 +23,6 @@ otuncelgurlek1@gsu.edu
 ## Some recommendations: 
 - Definitely go over your notes and practice matrix operations (otherwise you will forget notation and nomenclature)
 - Get familiar with concepts like parameter, scalar, vector, etc. 
-- Get familiar with greek letters
+- Get familiar with Greek letters
 - If you want more math (yey! 💥), I recommend [Math Refresher for Political Scientist](https://projects.iq.harvard.edu/prefresher/material) - this is a math camp at Harvard's Department of Government led by Gary King. 
 
