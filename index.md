@@ -26,7 +26,7 @@ layout: default
 
 [Week 1 Slides](docs/01Matrix.pdf)
 
-[Ozlem's notes from the class](docs/week1.md)
+[Ozlem's notes from Week 1 class](docs/week1.md)
 
 ### Software and others
 > ✔️ Goal 1: Participate in Josh's R sessions to learn more about base R.
