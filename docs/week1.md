@@ -15,7 +15,7 @@ otuncelgurlek1@gsu.edu
 - a **scalar** is a single number or constant
 - a **vector** is a matrix but it is just one row and one column
 - a **matrix** has more than one column or row (of vectors)
-- a **parameter** - measurement of population quantities. We cannot directly observe it. It helps us to represent entire population -- true unknown/value in the population. Sometimes, it is theroretically possible to know this value but practically nearly impossible. We use greek letters to denote parameters (like $\mu$ or $\delta$). We cannot never get the parameter, we can only **estimate** it using statistics.  
+- a **parameter** - measurement of population quantities. We cannot directly observe it. It helps us to represent entire population -- true unknown/value in the population. Sometimes, it is theroretically possible to know this value but practically nearly impossible. We use greek letters to denote parameters, such as $\mu$ or $\delta$. We cannot never get the parameter, we can only **estimate** it using statistics.  
 - a **statistic** - measurement of the sample qualities. Basically, this is a way of giving your best guess about some data (e.g., mean of a sample). 
 - special matrices (e.g., square matrix, symmetric matrix) are important in some instances because you have to have certain types of matrices to perform certain operations. We will talk about them more in upcoming weeks.
 - an **inverse of matrix** is a matrix, and the product between a matrix and its inverse yields to an identity matrix
