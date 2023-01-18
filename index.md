@@ -50,6 +50,11 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 ## Week 2
 
+### Class materials 
+> ✔️ Goal: Get familiar with the basics of probability and distribution.
+
+[Week 2 Slides](docs/02Probability.pdf)
+
 ## Week 3
 
 ## Week 4
