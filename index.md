@@ -54,6 +54,10 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 > ✔️ Goal: Get familiar with the basics of probability and distribution.
 
 [Week 2 Slides](docs/02Probability.pdf)
+[Ozlem's notes from Week 1 class](docs/week2.md)
+
+### Software and others 
+> No update here! I highly recommend Josh's R workshops. 
 
 ## Week 3
 
