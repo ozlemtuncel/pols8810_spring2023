@@ -61,6 +61,8 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 ## Week 3
 
+[Week 3 Slides](docs/03Data.pdf)
+
 ## Week 4
 
 ## Week 5
