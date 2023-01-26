@@ -1,4 +1,4 @@
-# Week 2: Data (aka intro to EDA) (01/19/2023)
+# Week 3: Data (aka intro to EDA) (01/26/2023)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
