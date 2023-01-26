@@ -17,12 +17,7 @@ otuncelgurlek1@gsu.edu
 - Statistical significance is a dichotomy: it either exists or not. 
 
 ## Some recommendations: 
-- I cannot emphasize enough the importance of EDA - which is something we do not see in published scholarly work. Yet, this is the fundamental aspect of your research. Often, we spent most of our time on data manipulation and exploration. 
+- I cannot emphasize the importance of EDA - which is something we do not see in published scholarly work. Yet, this is the fundamental aspect of your research. Often, we spent most of our time on data manipulation and exploration. 
+- I often observe students making the following mistake: load the data and run the model. This is a no-no! Although the finished product (e.g., journal article) does not include any of the EDA steps we discussed, one should not perform any analysis to the data that they never examined carefully.  
 - Always save excel files as **.csv** 
-- Basic stat book recommendation: [Wonnacoat and Wonnacoat 1990](https://www.amazon.com/Introductory-Statistics-5th-Thomas-Wonnacott/dp/0471615188)
-
-Sources for next week:
-[Descriptive statistics](https://methodenlehre.github.io/SGSCLM-R-course/descriptive-statistics.html)
-[EDA]()
-[Publication-ready graphs in ggplot2](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/)
-[List of possible graphs in ggplot2](https://r-graph-gallery.com/ggplot2-package.html)
+- Basic stat book recommendation: [Wonnacoat and Wonnacoat 1990](https://www.amazon.com/Introductory-Statistics-5th-Thomas-Wonnacott/dp/0471615188). I used this in my first year and I really like it. This was on Dr. Fix's POLS 8805 syllabus. 
