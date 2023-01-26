@@ -54,6 +54,7 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 > ✔️ Goal: Get familiar with the basics of probability and distribution.
 
 [Week 2 Slides](docs/02Probability.pdf)
+
 [Ozlem's notes from Week 2 class](docs/week2.md)
 
 ### Software and others 
@@ -64,8 +65,11 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 > ✔️ Goal: Get familiar with the basics of descriptive stats and representing your data visually.
 
 [Week 3 Slides](docs/03Data.pdf)
+
 [Ozlem's notes from Week 3 class](docs/week3.md)
+
 [R script that I used to create input for this week's slide](docs/week3.R)
+
 [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 **Suggestions for descriptive stats (and other things)**
