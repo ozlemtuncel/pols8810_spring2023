@@ -54,14 +54,27 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 > ✔️ Goal: Get familiar with the basics of probability and distribution.
 
 [Week 2 Slides](docs/02Probability.pdf)
-[Ozlem's notes from Week 1 class](docs/week2.md)
+[Ozlem's notes from Week 2 class](docs/week2.md)
 
 ### Software and others 
 > No update here! I highly recommend Josh's R workshops. 
 
 ## Week 3
 
+> ✔️ Goal: Get familiar with the basics of descriptive stats and representing your data visually.
+
 [Week 3 Slides](docs/03Data.pdf)
+[Ozlem's notes from Week 3 class](docs/week3.md)
+
+**Suggestions for descriptive stats (and other things)**
+For basic descriptive stats and understanding your data, base R is more than enough! So, do not bother with tidy language (which can be overkill sometimes). Here are some further suggestions and examples: 
+
+- [Great summary of basic descriptive stats in R](https://statsandr.com/blog/descriptive-statistics-in-r/)
+- [Exploratory Data Analysis (EDA) Intro from Hadley Wickham](https://r4ds.had.co.nz/exploratory-data-analysis.html) - I recommend this book for learning R. [Hadley](https://twitter.com/hadleywickham) is the one who created the whole tidyverse universe, so he knows what he is doing. 
+- [Another EDA vignette](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html) - This is going to be extremely useful with Gauss-Markov assumptions. 
+- [Want to learn more about R and how it works under the hood (all base R)? Read this!](https://adv-r.hadley.nz/) - This is my go-to book to R (again Hadley wrote this).
+- [All the possible things you can do with ggplot2](https://r-graph-gallery.com/ggplot2-package.html) - Of course, this is not the complete list. There is always going to be one specific thing that needs additional package (e.g., I was trying to do cluster dendongrams which does not exist in ggplot2 but exists as [ggdendro](https://cran.r-project.org/web/packages/ggdendro/vignettes/ggdendro.html). So, google it if you are not sure!). 
+- [For those who want to learn GitHub - here is how I learned](https://happygitwithr.com/) - Git might be a bit of advance at this point, but it is essential part of every project that I do. So, version control everything (future you will be super happy) and I like how GitHub can be easy. Feel free to ask if you have any questions about version control and Git! 
 
 ## Week 4
 
