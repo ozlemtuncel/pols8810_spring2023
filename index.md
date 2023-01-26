@@ -65,6 +65,8 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 [Week 3 Slides](docs/03Data.pdf)
 [Ozlem's notes from Week 3 class](docs/week3.md)
+[R script that I used to create input for this week's slide](docs/week3.R)
+[V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 **Suggestions for descriptive stats (and other things)**
 For basic descriptive stats and understanding your data, base R is more than enough! So, do not bother with tidy language (which can be overkill sometimes). Here are some further suggestions and examples: 
