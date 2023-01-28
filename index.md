@@ -82,7 +82,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 - [All the possible things you can do with ggplot2](https://r-graph-gallery.com/ggplot2-package.html) - Of course, this is not the complete list. There is always going to be one specific thing that needs additional package (e.g., I was trying to do cluster dendongrams which does not exist in ggplot2 but exists as [ggdendro](https://cran.r-project.org/web/packages/ggdendro/vignettes/ggdendro.html). So, google it if you are not sure!). 
 - [For those who want to learn GitHub - here is how I learned](https://happygitwithr.com/) - Git might be a bit of advance at this point, but it is essential part of every project that I do. So, version control everything (future you will be super happy) and I like how GitHub can be easy. Feel free to ask if you have any questions about version control and Git!
 
-** Josh's suggestions and slides from R Workshops** ⭐
+**Josh's suggestions and slides from R Workshops** ⭐
 - For graphing in ggplot and design decisions Josh highly recommends [Cederic Scherer's Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/), [Cederic Scherer's talks more generally](https://www.cedricscherer.com/top/portfolio/), and [Andrew Heiss's Data Visualization class](https://datavizs21.classes.andrewheiss.com/)
 - To make good tables in R with minimal effort Josh recommends [modelsummary](https://vincentarelbundock.github.io/modelsummary/index.html).
 
