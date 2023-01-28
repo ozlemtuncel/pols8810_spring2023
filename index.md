@@ -68,9 +68,9 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 [Ozlem's notes from Week 3 class](docs/week3.md)
 
-[R script that I used to create input for this week's slide](docs/week3.R)
+[R script that I used to create input for this week's slide](docs/week3.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
-[V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+❗[The slides for Josh's workshop are here](docs/field-guide-to-base-r.pdf). ❗
 
 **Suggestions for descriptive stats (and other things)**
 For basic descriptive stats and understanding your data, base R is more than enough! So, do not bother with tidy language (which can be overkill sometimes). Here are some further suggestions and examples: 
@@ -85,7 +85,6 @@ For basic descriptive stats and understanding your data, base R is more than eno
 ** Josh's suggestions and slides from R Workshops** ⭐
 - For graphing in ggplot and design decisions Josh highly recommends [Cederic Scherer's Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/), [Cederic Scherer's talks more generally](https://www.cedricscherer.com/top/portfolio/), and [Andrew Heiss's Data Visualization class](https://datavizs21.classes.andrewheiss.com/)
 - To make good tables in R with minimal effort Josh recommends [modelsummary](https://vincentarelbundock.github.io/modelsummary/index.html).
-- ❗The slides for Josh's workshop are [here](docs/field-guide-to-base-r.pdf). ❗
 
 ## Week 4
 
