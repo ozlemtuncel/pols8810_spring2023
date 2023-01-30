@@ -88,4 +88,34 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 4
 
+> ✔️ Goal: Get familiar with the basics of bivariate OLS.
+
+[Week 4 Slides](docs/04Bivariate.pdf)
+
+[Ozlem's notes from Week 4 class](docs/week4.md) 🚧 *under construction* 🚧
+
+[R script that I used to create input for week 4 slide](docs/week4.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for descriptive stats (and other things)**
+- Want to construct your own OLS estimator, [here is how](https://economictheoryblog.com/2016/02/20/rebuild-ols-estimator-manually-in-r/). 🥊
+- Learn more about `stargazer` packager, [here is a great source](https://fgeerolf.com/code/R/stargazer.html#Stargazer_options) ⭐
+
 ## Week 5
+
+> ✔️ Goal: [TBA]
+
+## Week 6
+
+> ✔️ Goal: [TBA]
+
+## Week 7
+
+> ✔️ Goal: [TBA]
+
+## Week 8
+
+> ✔️ Goal: [TBA]
+
+## Week 9
+
+> ✔️ Goal: [TBA]
