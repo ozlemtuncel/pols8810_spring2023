@@ -92,7 +92,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [Week 4 Slides](docs/04Bivariate.pdf)
 
-[Ozlem's notes from Week 4 class](docs/week4.md) 🚧 *under construction* 🚧
+[Ozlem's notes from Week 4 class](docs/week4.md)
 
 [R script that I used to create input for week 4 slide](docs/week4.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
