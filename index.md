@@ -102,7 +102,17 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 5
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Get familiar with variance, covariance, and Gauss-Markov theorem.
+
+[Week 5 Slides](docs/05Inference.pdf)
+
+[Ozlem's notes from Week 5 class](docs/week5.md)
+
+[R script that I used to create input for week 5 slide](docs/week5.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for matrix notation and residuals**
+- Here is a great overview of [matrix notation for OLS regression](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/explainRegression.html)
+
 
 ## Week 6
 
