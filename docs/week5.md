@@ -24,9 +24,9 @@ otuncelgurlek1@gsu.edu
 - Simply having more variation in our independent variable is going to lead to larger variation in our estimators. 
 - Z score is the estimate divided by the standard error => higher z score, low p-value 
 - If you have enough number of observations, you will get statistical significance. So, small number of sample size is bad, high number of sample size is meaningless.
-- Best means minimum variance among other estimators
--  
+- Best means minimum variance among other estimators 
 
 ## Some suggestions:
 - Here is an [exploratory regression shiny application](https://cran.r-project.org/web/packages/ERSA/vignettes/ERSA.html)
 - More sources on $y$, $\hat{y}$, and residuals: [source 1](https://condor.depaul.edu/sjost/it223/documents/regress.htm), [source 2](https://www.r-bloggers.com/2018/04/y-is-for-ys-y-hats-and-residuals/), [source 3](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf), [source 4](http://www.unm.edu/~jikaczmarski/working_papers/gm_proof.pdf)
+- [Central Limit Theorem simulator](https://saskiaotto.de/shiny/clt/)
