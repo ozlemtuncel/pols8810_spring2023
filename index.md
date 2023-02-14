@@ -123,6 +123,9 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [R script that I used to create input for week 6 slide](docs/week6.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
+**Suggestions for week 6 materials**
+- If you want to learn more about dot-and-whisker plots, [see here](https://felixhaass.github.io/dataviz_ggplot2/session4.html).
+
 ## Week 7
 
 > ✔️ Goal: [TBA]
