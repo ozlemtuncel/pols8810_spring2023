@@ -7,12 +7,15 @@
 
 ### Load necessary packages ----
 # Use install.packages() if you do not have this package
-library(tidyverse) # Data manipulation
-library(stargazer) # Creates nice regression output tables
-library(lmtest)    # Breusch-Pagan test 
-library(psych)     # Histograms and correlations for a data matrix
+library(tidyverse)  # Data manipulation
+library(stargazer)  # Creates nice regression output tables
+library(lmtest)     # Breusch-Pagan test 
+library(psych)      # Histograms and correlations for a data matrix
+library(dotwhisker) # Dot-and-whisker plot of regression result
+library(lm.beta)    # Get beta coefficients 
+library(broom)      # tidy models
 
-### Load your data ----
+## Load your data ----
 # We are using V-Dem version 12 
 my_data <- readRDS("data/vdem12.rds") 
 
@@ -30,7 +33,7 @@ simple <- lm(democracy ~ gdp_per_capita, data = us_data)
 multiple <- lm(democracy ~ gdp_per_capita + urbanization, data = us_data)
 
 # View model summary
-summary(bivariate)
+summary(simple)
 summary(multiple)
 
 stargazer(simple, multiple,
@@ -47,6 +50,53 @@ stargazer(simple, multiple,
           notes = "p < 0.05. Standard errors are in parentheses.",
           p.auto = T,
           report = "vcsp*")
+
+### Standardized coefficients (beta coefs) ----
+
+# the standardized regression coefficients (beta) can be found by 
+# multiplying the regression coefficient $b_i$ by $S_Xi$ and dividing it by $S_Y$, 
+# represents the expected change in Y (in standardized units of SY where 
+# each “unit” is a statistical unit equal to one standard deviation) because of 
+# an increase in Xi of one of its standardized units, 
+# with all other X variables unchanged.
+
+# Standardized Regression Coefficients => b_i(S_Xi/S_Y)
+
+# There are different ways to get your beta coefficients, use base R like this
+streg_multiple <- lm(data.frame(scale(multiple$model))) # Get standardized regression coefficients
+
+# Or you could scale each variable when running lm() - like this
+# lm(scale(democracy) ~ scale(gdp_per_capita) + scale(urbanization), data = us_data)
+
+# Let's make a coefficeint plot of these two models to see the difference
+
+# transform model objects into data frames
+m1_tidy <- tidy(multiple) |> 
+    mutate(model = "Toy Model")
+  
+# repeat for model 2
+m2_tidy <- tidy(streg_multiple) |> 
+    mutate(model = "Model with Standardized Coefs")
+  
+# combine these models 
+all_models <- bind_rows(m1_tidy, m2_tidy)
+
+dwplot(all_models, 
+       show_intercept = F,
+       dot_args = list(aes(colour = model, shape = model)), 
+       size = 3) |> 
+  relabel_predictors(c(urbanization = "Urbanization",
+                       gdp_per_capita = "GDP per capita")) +
+  theme_bw() +
+  theme(plot.title = element_text(face="bold"),
+        legend.position = "bottom",
+        legend.background = element_rect(colour="grey80"),
+        legend.title.align = .5) +
+  labs(x = "Coefficient Estimate with 95% CIs", 
+       y = "", title = "Predicting democracy in the US") +
+  scale_shape_discrete(name  ="Models", breaks = c(0, 1)) + # breaks assign shapes
+  scale_colour_grey(start = .3, end = .7, name = "Models") # start/end for light/dark greys
+
 
 ### Gauss-Markov assumptions using plot() ----
 # Let's start with the easiest way
