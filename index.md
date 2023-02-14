@@ -115,7 +115,13 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 6
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Get familiar with multiple regression, testing for Gauss-Markov assumptions, and standardized coefficients.
+
+[Week 6 Slides](docs/06MultipleReg.pdf)
+
+[Ozlem's notes from Week 6 class](docs/week6.md)
+
+[R script that I used to create input for week 6 slide](docs/week6.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 ## Week 7
 
