@@ -31,3 +31,4 @@ otuncelgurlek1@gsu.edu
 ## Some recommendations: 
 - Further, explanation of linearity in parameters. [See here](https://mgkim.blog/2017/06/19/linearity-in-parameters/)
 - If you are curious about visual guide to spherical disturbances, [see here](https://kaomorphism.com/socraticregression/ols.html)
+- Read Gelman (2008) for standardizing by 2sd - [see here](http://www.stat.columbia.edu/~gelman/research/unpublished/standardizing.pdf)
