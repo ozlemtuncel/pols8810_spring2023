@@ -26,7 +26,7 @@ otuncelgurlek1@gsu.edu
   3. **$R^2_{adj}$**: much better than R-squared. It penalizes for the number of k. 
 - You'll always gave omitted variable bias - this is due to human nature. It is impossible account for all factors that explain an outcome. Overfitting is a much worse problem. 
 - **Interpretation**: independent effects, so we can interpret each coefficient. We can say "one unit increase in our X increases Y by XXXX"
-- **Standardized coefficients**: helps us to identify the effect when we have two different scales. Now, we say "one standard deviation increase in our X increases Y by XXXX standard deviations". 
+- **Standardized coefficients**: helps us to identify the effect when we have two different scales. Now, we say "one standard deviation increase in our X increases Y by XXXX standard deviations". But, this makes substantive interpretation harder, right?  
 
 ## Some recommendations: 
 - Further, explanation of linearity in parameters. [See here](https://mgkim.blog/2017/06/19/linearity-in-parameters/)
