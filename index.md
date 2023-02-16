@@ -125,6 +125,9 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 **Suggestions for week 6 materials**
 - If you want to learn more about dot-and-whisker plots, [see here](https://felixhaass.github.io/dataviz_ggplot2/session4.html).
+- Further, explanation of linearity in parameters. [See here](https://mgkim.blog/2017/06/19/linearity-in-parameters/)
+- If you are curious about visual guide to spherical disturbances, [see here](https://kaomorphism.com/socraticregression/ols.html)
+- Read Gelman (2008) for standardizing by 2sd - [see here](http://www.stat.columbia.edu/~gelman/research/unpublished/standardizing.pdf)
 
 ## Week 7
 
