@@ -27,8 +27,3 @@ otuncelgurlek1@gsu.edu
 - You'll always gave omitted variable bias - this is due to human nature. It is impossible account for all factors that explain an outcome. Overfitting is a much worse problem. 
 - **Interpretation**: independent effects, so we can interpret each coefficient. We can say "one unit increase in our X increases Y by XXXX"
 - **Standardized coefficients**: helps us to identify the effect when we have two different scales. Now, we say "one standard deviation increase in our X increases Y by XXXX standard deviations". But, this makes substantive interpretation harder, right?  
-
-## Some recommendations: 
-- Further, explanation of linearity in parameters. [See here](https://mgkim.blog/2017/06/19/linearity-in-parameters/)
-- If you are curious about visual guide to spherical disturbances, [see here](https://kaomorphism.com/socraticregression/ols.html)
-- Read Gelman (2008) for standardizing by 2sd - [see here](http://www.stat.columbia.edu/~gelman/research/unpublished/standardizing.pdf)
