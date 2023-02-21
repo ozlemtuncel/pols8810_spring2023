@@ -131,7 +131,13 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 7
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Understanding binary predictors, nonlinearity, and data transformations.
+
+[Week 7 Slides](docs/07Dummy.pdf)
+
+[Ozlem's notes from Week 7 class](docs/week7.md)
+
+[R script that I used to create input for week 7 slide](docs/week7.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 ## Week 8
 
