@@ -139,6 +139,9 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [R script that I used to create input for week 7 slide](docs/week7.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
+**Suggestions for week 7 material**
+- Most of you are having difficulty with taking notes in your replication files. [Here is a great source on how to outline your scripts.](https://posit.co/blog/rstudio-v1-4-preview-little-things/)
+
 ## Week 8
 
 > ✔️ Goal: [TBA]
