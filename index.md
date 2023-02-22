@@ -141,6 +141,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 **Suggestions for week 7 material**
 - Most of you are having difficulty with taking notes in your replication files. [Here is a great source on how to outline your scripts.](https://posit.co/blog/rstudio-v1-4-preview-little-things/)
+- There are several packages out there to help with OLS diagnostics: [performance](https://easystats.github.io/performance/index.html), [olsrr](https://cran.r-project.org/web/packages/olsrr/vignettes/intro.html), and [gvlma](https://cran.r-project.org/web/packages/olsrr/vignettes/intro.html).
 
 ## Week 8
 
