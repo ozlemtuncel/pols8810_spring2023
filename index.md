@@ -145,7 +145,20 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 8
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Understanding the use and interpretation of interaction terms. 
+
+[Week 8 Slides](docs/08Interaction.pdf)
+
+[Ozlem's notes from Week 8 class](docs/week8.md)
+
+[R script that I used to create input for week 8 slide](docs/week7.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for week 8 material**
+- Check `ggeffects` [package](https://strengejacke.github.io/ggeffects/) in detail. I recommend starting with this [vignette](https://strengejacke.github.io/ggeffects/articles/ggeffects.html).
+-  Check `margins` package in detail. I recommend starting with this [vignette](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html).
+- One alternative to `ggeffects` that I like to use: `sjPlot` and `sjmisc`. Read more about these packages [here](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_interactions.html). Another alternative is `interactions` package, read more [here](https://interactions.jacob-long.com/articles/interactions.html).
+- Read more about interactions in [here](https://www.econometrics-with-r.org/8-3-interactions-between-independent-variables.html).
+- Read more about different types of interactions [here](https://stats.oarc.ucla.edu/r/seminars/interactions-r/#s4).
 
 ## Week 9
 
