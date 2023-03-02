@@ -151,7 +151,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [Ozlem's notes from Week 8 class](docs/week8.md)
 
-[R script that I used to create input for week 8 slide](docs/week7.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+[R script that I used to create input for week 8 slide](docs/week8.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 **Suggestions for week 8 material**
 - Check `ggeffects` [package](https://strengejacke.github.io/ggeffects/) in detail. I recommend starting with this [vignette](https://strengejacke.github.io/ggeffects/articles/ggeffects.html).
