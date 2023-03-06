@@ -148,6 +148,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 > ✔️ Goal: Understanding the use and interpretation of interaction terms. 
 
 [Week 8 Slides](docs/08Interaction.pdf)
+
 [Josh's Slides](docs/interactions.html)
 
 [Ozlem's notes from Week 8 class](docs/week8.md)
