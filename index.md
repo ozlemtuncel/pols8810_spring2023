@@ -161,6 +161,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 - One alternative to `ggeffects` that I like to use: `sjPlot` and `sjmisc`. Read more about these packages [here](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_interactions.html). Another alternative is `interactions` package, read more [here](https://interactions.jacob-long.com/articles/interactions.html).
 - Read more about interactions in [here](https://www.econometrics-with-r.org/8-3-interactions-between-independent-variables.html).
 - Read more about different types of interactions [here](https://stats.oarc.ucla.edu/r/seminars/interactions-r/#s4).
+- Some of you asked about three-way and other type of interactions in the office hours. As I said, interactions consume a lot of your [statistical power. Here is a great explanation of why interactions are tricky.](https://statmodeling.stat.columbia.edu/2018/03/15/need-16-times-sample-size-estimate-interaction-estimate-main-effect/) 
 
 ## Week 9
 
