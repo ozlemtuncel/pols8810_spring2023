@@ -165,4 +165,25 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 ## Week 9
 
+> ✔️ Goal: Deeper dive on the heteroskedasticity issue and exploring heteroskedasticity-consistent solutions. 
+
+[Week 9 Slides](docs/09Variance.pdf)
+
+[Ozlem's notes from Week 9 class](docs/week9.md)
+
+[R script that I used to create input for week 9 slide](docs/week9.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for week 9 material**
+- For future projects, read `sandwich` package in [CRAN carefully.](https://cran.r-project.org/web/packages/sandwich/index.html) 
+
+## Week 10
+
+> ✔️ Goal: [TBA]
+
+## Week 11
+
+> ✔️ Goal: [TBA]
+
+## Week 12
+
 > ✔️ Goal: [TBA]
