@@ -21,4 +21,6 @@ otuncelgurlek1@gsu.edu
 - We have 3 band-aid solutions: (1) Weighted Least Squares (WLS), (2) Robust standard errors, and (3) Clustered standard errors. 
 - If we know nothing about the source of heteroskedasticity then it is usefult o use robust SEs, but if we know a lot about the source of heteroskedasticity, then WLS or multi-level/hierarchical modeling is the best. In between (moderate knowledge), we can do clustering or fixed-effects.
 - We are not post-hoc correcting our SEs with WLS. We do this with theoretical knowledge. 
-- 
+- Robust SEs are consistant, meaning t-statistic estimates (and F tests) are only asymptotically valid. They are potentially biased in small samples.
+- Cross Sectional Time Series (CSTS) or Panel data -- where we observe changes within space and time. Read the following to start with panel data:
+  - Beck, N., Katz, J. N., & Tucker, R. (1998). Taking time seriously: Time-series-cross-section analysis with a binary dependent variable. *American Journal of Political Science, 42(4),* 1260-1288.
