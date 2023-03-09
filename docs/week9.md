@@ -16,7 +16,7 @@ otuncelgurlek1@gsu.edu
 - **This means that if even they are not, our p-values can be statistically significant (which might not be true if corrected).**
 - Increasing the sample size decreases your SE, and will guarantee statistically significant results after some threshold (like 10,000 observations).
 - Generally, any t-value greater than +2 or less than - 2 is acceptable. The higher the t-value, the greater the confidence we have in the coefficient as a predictor. Low t-values are indications of low reliability of the predictive power of that coefficient. 
-- $t-statistics = \frac{\hat{\beta} - \beta_0}{SE\hat{\beta}}$
+- $t-statistics = \frac{\hat{\beta} - \beta_0}{SE(\hat{\beta})}$
 - How to detect heteroskedasticity? (1) Visual examination and (2) Breusch-Pagan test. However, there are at least 20 tests out there to test heteroskedasticity. We prefer to use this one. 
 - We have 3 band-aid solutions: (1) Weighted Least Squares (WLS), (2) Robust standard errors, and (3) Clustered standard errors. 
 - If we know nothing about the source of heteroskedasticity then it is usefult o use robust SEs, but if we know a lot about the source of heteroskedasticity, then WLS or multi-level/hierarchical modeling is the best. In between (moderate knowledge), we can do clustering or fixed-effects.
