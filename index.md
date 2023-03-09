@@ -173,6 +173,21 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [R script that I used to create input for week 9 slide](docs/week9.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
+**Substantive Interpretation Guides**
+I have realized that many of you are having difficulty with substantive interpretation of your regression results. This is normal! This is an important skill to learn, but it can be tricky. So, here are few key points and sources that might help you out! 
+
+- ⚠️ The fact that an estimated regression coefficient is **statistically significant** (i.e., you can reject the null hypothesis that the true β is 0 with a high level of confidence) *does not mean that your independent variable is substantively important!* What does this mean? You might have statistically significant relationship that supports your alternative hypothesis, but we mostly care about "So what?" question. ❗What does this relationship tell us? Hence, substantive interpretation matters!
+- For instance, let's say we modelled the impact of video gaming (in hours) on reading time (in hours). We found that the estimated coefficient on gaming time is quite small (\beta = -0.04; s.e. = 0.01) and statistically significant (p < 0.01). The coefficient translates to a reduction of about two minutes (0.04 of 60 minutes - 1 hr - is around 2.4) in reading time for each hour spent video gaming. Although the estimated coefficient is statistically significant, it is so small that it isn't very substantively meaningful. In other words, that finding suggests that banning video game playing would not be a very effective way to increase reading time by a meaningful amount, even if the association between gaming time and reading time is statistically significant as it only leads to 2 minute reduction for the sample we are using.
+
+You might ask, "Ozlem, how am I suppose to develop my interpretation skills?" A simple answer: "Read analysis section of articles and books in detail." **Best way to learn this skill is imitating.**
+
+- [Here is a great source to learn more about statistical significance and substantive interpretation](http://www.statlit.org/pdf/2008MillerASA.pdf)..
+- [Here is a great guide on interpretation in which we see how interpretation differs depending on the variable type](https://semrasevi342192471.files.wordpress.com/2021/01/guide-to-interpreting-regression-tables.pdf). 
+- [Here is a published research in APSR (yes!) that uses OLS!](https://www.cambridge.org/core/journals/american-political-science-review/article/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
+  - Carefully read the variable description and see how we refer to our variables in real life.
+  - See how descriptive statistics plays a role prior to the analysis results. 
+  - See how results are interpreted substantively!
+
 **Suggestions for week 9 material**
 - For future projects, read `sandwich` package in [CRAN carefully.](https://cran.r-project.org/web/packages/sandwich/index.html) 
 
