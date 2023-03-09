@@ -10,7 +10,7 @@ otuncelgurlek1@gsu.edu
 
 ## Here are some key points:
 - Just like bivariate regression, now we have multiple independent variables. 
-- $\beta = ({X^\prime} X)^-1 {X^\prime}Y$ - knowing this by heart will help you with proofs
+- $\beta = ({X^\prime} X)^{-1} {X^\prime}Y$ - knowing this by heart will help you with proofs
 - **Gauss-Markov Assumptions**
   1. **Linearity** - our parameters (our betas) are linear! 
   2. **No Perfect Multicollinearity** (Full Rank) (perfect multicollinearity is when your variables are strongly correlated) and **N>K** (number of observations should be bigger than number of variables. 
