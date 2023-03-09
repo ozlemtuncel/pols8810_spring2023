@@ -184,14 +184,17 @@ You might ask, "Ozlem, how am I suppose to develop my interpretation skills?" A 
 
 - [Here is a great source to learn more about statistical significance and substantive interpretation](http://www.statlit.org/pdf/2008MillerASA.pdf)..
 - [Here is a great guide on interpretation in which we see how interpretation differs depending on the variable type](https://semrasevi342192471.files.wordpress.com/2021/01/guide-to-interpreting-regression-tables.pdf). 
-- [Here is a published research in APSR (yes!) that uses OLS!](https://www.cambridge.org/core/journals/american-political-science-review/article/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
-- [Here is a published research in Party Politics that uses OLS! Much simpler than this APSR one](https://journals.sagepub.com/doi/pdf/10.1177/1354068819836047). 
+- [Here is a published research in APSR that uses OLS! (yes it is possible to publish with OLS in a top journal!)](https://www.cambridge.org/core/journals/american-political-science-review/article/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
+- [Here is a published research in Party Politics that uses OLS! This one is less complex compared to the APSR one](https://journals.sagepub.com/doi/pdf/10.1177/1354068819836047). 
   - Carefully read the variable description and see how we refer to our variables in real life.
   - See how descriptive statistics plays a role prior to the analysis results. 
   - See how results are interpreted substantively!
 
 **Suggestions for week 9 material**
 - For future projects, read `sandwich` package in [CRAN carefully.](https://cran.r-project.org/web/packages/sandwich/index.html) 
+- We talked about unbiased estimates with heteroskedasticity. See [this Stackoverflow discussion](https://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression) to understand how violating Gauss-Markov assumptions influence efficiency, bias, and consistency. 
+- [Quick summary of z-score and t-score](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/t-score-vs-z-score/).
+- 
 
 ## Week 10
 
