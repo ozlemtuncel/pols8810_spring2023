@@ -171,6 +171,8 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 [Ozlem's notes from Week 9 class](docs/week9.md)
 
+[Dr. Fix's guide for dealing with heteroskedasticity](docs/heteroskedasticity.pdf)
+
 [R script that I used to create input for week 9 slide](docs/week9.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 **Substantive Interpretation Guides**
@@ -198,7 +200,7 @@ You might ask, "Ozlem, how am I suppose to develop my interpretation skills?" A 
 
 ## Week 10
 
-> ✔️ Goal: [TBA]
+> 🌞Spring Break
 
 ## Week 11
 
