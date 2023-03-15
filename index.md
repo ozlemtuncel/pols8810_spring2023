@@ -202,6 +202,17 @@ You might ask, "Ozlem, how am I suppose to develop my interpretation skills?" A 
 
 > 🌞Spring Break
 
+In case you are having difficulty with interpreting interaction terms, I suggest reading some articles that uses interactions. I have two recommendations: 
+
+- This [Golder (2006) article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E20B729DB038D7C920215319A2B1A094/S0007123406000123b.pdf/pre-electoral-coalition-formation-in-parliamentary-democracies.pdf). Golder does a great job of interpreting the two-way interactions in her model. Here, she uses marginal effect plots to provide substantive interpretation.  
+- This [Kertzer et al. (2020) article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/931AC830FEB7D24D26800E22558D9F9D/S0020818319000328a.pdf/price_of_peace_motivated_reasoning_and_costly_signaling_in_international_relations.pdf) uses three-way interaction term - which is something rare in political science. Here, they use marginal effect plots. If you check their appendix, you will find predicted probability plots as well.
+
+In these articles, you will see 3 things:
+
+- We use interactions because our theory tells us to use it!
+- **We never interpret the coefficent of the interaction term and one or both constitutive terms.** This is true for OLS and every other estimator out there. We talked about this in the class and did proofs as well. We care about whether they are significant or not. But, overall, interpretation purposes we need more than statistical significance.
+- **If the interaction is significant, we should use predicted plots and marginal effect plots to make substantive interpretation!**
+
 ## Week 11
 
 > ✔️ Goal: [TBA]
