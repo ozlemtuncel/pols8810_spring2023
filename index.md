@@ -204,7 +204,7 @@ You might ask, "Ozlem, how am I suppose to develop my interpretation skills?" A 
 
 In case you are having difficulty with interpreting interaction terms, I suggest reading some articles that uses interactions. I have two recommendations: 
 
-- This [Golder (2006) article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E20B729DB038D7C920215319A2B1A094/S0007123406000123b.pdf/pre-electoral-coalition-formation-in-parliamentary-democracies.pdf). Golder does a great job of interpreting the two-way interactions in her model. Here, she uses marginal effect plots to provide substantive interpretation.  
+- This [Golder (2006) article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E20B729DB038D7C920215319A2B1A094/S0007123406000123b.pdf/pre-electoral-coalition-formation-in-parliamentary-democracies.pdf). Golder does a great job of interpreting the two-way interactions in her model. Here, she uses marginal effect plots to provide substantive interpretation. Also, we have Brambor, Clark, and Golder (2006) article in the syllabus on interactions - a must read!
 - This [Kertzer et al. (2020) article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/931AC830FEB7D24D26800E22558D9F9D/S0020818319000328a.pdf/price_of_peace_motivated_reasoning_and_costly_signaling_in_international_relations.pdf) uses three-way interaction term - which is something rare in political science. Here, they use marginal effect plots. If you check their appendix, you will find predicted probability plots as well.
 
 In these articles, you will see 3 things:
