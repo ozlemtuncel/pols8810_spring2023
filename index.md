@@ -217,6 +217,17 @@ In these articles, you will see 3 things:
 
 > ✔️ Goal: [TBA]
 
+[Week 11 Slides](docs/10Collinearity.pdf)
+
+[Ozlem's notes from Week 11 class](docs/week11.md)
+
+[R script that I used to create input for week 11 slide](docs/week11.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for week 11 material**
+- Here is a simple guide if you want to learn how to use [ridge regression in R](https://www.r-bloggers.com/2020/05/simple-guide-to-ridge-regression-in-r/).
+- Here is a simple guide if you want to learn how to use [lasso regression in R](https://www.statology.org/lasso-regression-in-r/). 
+ 
 ## Week 12
 
 > ✔️ Goal: [TBA]
+
