@@ -226,6 +226,7 @@ In these articles, you will see 3 things:
 **Suggestions for week 11 material**
 - Here is a simple guide if you want to learn how to use [ridge regression in R](https://www.r-bloggers.com/2020/05/simple-guide-to-ridge-regression-in-r/).
 - Here is a simple guide if you want to learn how to use [lasso regression in R](https://www.statology.org/lasso-regression-in-r/). 
+- Here is a [great guide](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-5-Multiple-collinearity.html) on multicollinearity. It is a bit math and code intense, but I recommend checking it. 
  
 ## Week 12
 
