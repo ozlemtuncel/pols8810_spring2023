@@ -213,9 +213,9 @@ In these articles, you will see 3 things:
 - **We never interpret the coefficent of the interaction term and one or both constitutive terms.** This is true for OLS and every other estimator out there. We talked about this in the class and did proofs as well. We care about whether they are significant or not. But, overall, interpretation purposes we need more than statistical significance.
 - **If the interaction is significant, we should use predicted plots and marginal effect plots to make substantive interpretation!**
 
-## Week 11
+## Week 11 
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Deeper dive on the perfect multicollinearity issue and exploring possible solutions. 
 
 [Week 11 Slides](docs/10Collinearity.pdf)
 
@@ -227,6 +227,7 @@ In these articles, you will see 3 things:
 - Here is a simple guide if you want to learn how to use [ridge regression in R](https://www.r-bloggers.com/2020/05/simple-guide-to-ridge-regression-in-r/).
 - Here is a simple guide if you want to learn how to use [lasso regression in R](https://www.statology.org/lasso-regression-in-r/). 
 - Here is a [great guide](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-5-Multiple-collinearity.html) on multicollinearity. It is a bit math and code intense, but I recommend checking it. 
+- If you are using log transformation in your final paper, make sure to interpret coefficients appropriately. Variable transformations change how we interpet stuff. [Here is a great source on log transformation.](http://svmiller.com/blog/2023/01/what-log-variables-do-for-your-ols-model/)
  
 ## Week 12
 
