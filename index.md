@@ -228,6 +228,7 @@ In these articles, you will see 3 things:
 - Here is a simple guide if you want to learn how to use [lasso regression in R](https://www.statology.org/lasso-regression-in-r/). 
 - Here is a [great guide](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/4-5-Multiple-collinearity.html) on multicollinearity. It is a bit math and code intense, but I recommend checking it. 
 - If you are using log transformation in your final paper, make sure to interpret coefficients appropriately. Variable transformations change how we interpet stuff. [Here is a great source on log transformation.](http://svmiller.com/blog/2023/01/what-log-variables-do-for-your-ols-model/)
+- Some of you are having problems with shading and colors in ``ggplot``. Hint on this: check `color` and `alpha` options. Here is a [short guide](https://ggplot2.tidyverse.org/reference/aes_colour_fill_alpha.html#:~:text=Values%20of%20alpha%20range%20from,AA%20refers%20to%20transparency%20values.). 
  
 ## Week 12
 
