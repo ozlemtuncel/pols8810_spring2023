@@ -1,1 +1,8 @@
+# Week 12: Residuals, outliers, and diagnostics (04/06/2023)
+Ozlem Tuncel 
 
+otuncelgurlek1@gsu.edu
+
+> ⚠️ **CAUTION**: DO NOT SOLELY RELY ON MY NOTES. THERE MIGHT BE TYPOS AND MISTAKES. ALWAYS TAKE YOUR NOTES!
+
+✔️ The goal of this week is to understand the leverage, discrepancy, influence, and outliers. 
