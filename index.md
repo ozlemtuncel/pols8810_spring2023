@@ -232,5 +232,10 @@ In these articles, you will see 3 things:
  
 ## Week 12
 
-> ✔️ Goal: [TBA]
+> ✔️ Goal: Get a better sense of our residuals and use them for influential points and outliers. 
 
+[Week 12 Slides](docs/11Outliers.pdf)
+
+[Ozlem's notes from Week 11 class](docs/week12.md)
+
+[R script that I used to create input for week 11 slide](docs/week12.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
