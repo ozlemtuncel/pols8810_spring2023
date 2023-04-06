@@ -239,3 +239,6 @@ In these articles, you will see 3 things:
 [Ozlem's notes from Week 12 class](docs/week12.md)
 
 [R script that I used to create input for week 12 slide](docs/week12.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
+
+**Suggestions for week 12 material**
+- If you want to see some examples of outliers and high leverage points, here is an [example 1](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Lecture/lecture08_2020JC.html#1) and [example 2](https://aboomsma.webhosting.rug.nl/apstatdata/Regrdiag_R.pdf).
