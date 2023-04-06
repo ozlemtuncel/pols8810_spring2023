@@ -14,7 +14,7 @@ otuncelgurlek1@gsu.edu
 - End with minor points with bullet points. Major typos, formatting issues, aesthetics ... are some of the examples of minor issues. 
   
  ## Here are some key points from the lecture:
- - Perfect multicollinearity deals with **$X$**. We assume that X is full rank, $N>k$, and sufficient variability in **$X$**. 
+ - Perfect multicollinearity deals with **$X$**. We assume that X is full rank, **$N>k$**, and sufficient variability in **$X$**. 
  - If our coefficients add up to zero - this is perfect multicollinearity. 
  - Theoretically, this is a major problem. In real life, it is not because R will not produce results for the variable causing this error. 
  - You need more observations than your number of variables. This is problematic theoretically and practically because R will produce `NaN`. 
