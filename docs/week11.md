@@ -13,7 +13,7 @@ otuncelgurlek1@gsu.edu
 - Main body should be about main criticisms. 3 is the ideal number of major concerns. Spend a paragraph on each. If it is an obvious mistake, do not explain why. But if that is not a obvious one, make sure to include an explanation. Pair your criticism with a suggestion. 
 - End with minor points with bullet points. Major typos, formatting issues, aesthetics ... are some of the examples of minor issues. 
   
- ## Here are some key points:
+ ## Here are some key points from the lecture:
  - Perfect multicollinearity deals with **$X$**. We assume that X is full rank, $N>k$, and sufficient variability in **$X$***. 
  - If our coefficients add up to zero - this is perfect multicollinearity. 
  - Theoretically, this is a major problem. In real life, it is not because R will not produce results for the variable causing this error. 
