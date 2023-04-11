@@ -243,3 +243,13 @@ In these articles, you will see 3 things:
 **Suggestions for week 12 material**
 - If you want to see some examples of outliers and high leverage points, here is an [example 1](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Lecture/lecture08_2020JC.html#1) and [example 2](https://aboomsma.webhosting.rug.nl/apstatdata/Regrdiag_R.pdf).
 - Here is a [real life example where scholars drop observations](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/electoral-systems-district-magnitude-and-corruption/8258AEE220BB599E092E390AADCBC482). And, here is [a research note explaining what dropping observations would do](https://whanchoi.people.uic.edu/The-Effect-of-Outliers-on-Regression-Analysis.pdf).
+
+## Week 13
+
+> ✔️ Goal: A short introduction to GLM world which will help you with next semester's course.
+
+[Week 13 Slides](docs/12GLM.pdf)
+
+[Ozlem's notes from Week 13 class](docs/week13.md)
+
+[R script that I used to create input for week 13 slide](docs/week13.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
